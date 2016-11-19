@@ -20,3 +20,9 @@ A simple calculator for calculation the area of circle for given radius.
 <p>b2250cfc4a2f8c8e9847bae65e8d8e3c77787410216132fcf1237477452e8dbdadb2253b5f04616bec02dc989344e5d0</p>
 <b>7. SHA512</b>
 <p>8088dce902dd5fc33865570c8dafc2661ebd74dd7debf9e19cec0732def7e785dacee6c0b2e37a91ddc764f9aed8005007e98c810f39cd9ea8eef71fa93a1e9d</p>
+
+# Miscellaneous Details
+
+Version of Visual Studio Used: Visual Studio 2015 Enterprise Edition
+
+Version of .Net Framework: 4.5.2
